@@ -1,0 +1,35 @@
+.menu{
+    padding-left: 0;
+    margin-left: 0;
+    list-style-type: none;
+}
+
+.menu a{
+    font-family: calibri;
+    text-decoration: none;
+    color: red;
+    padding: 20px 40px;
+    display: inline-block;
+    background-color: green;
+    border-bottom: 5px solid black;
+}
+
+.menu2{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 700;
+}
+
+.menu2 a{
+    font-family: calibri;
+    text-decoration: none;
+    color: red;
+    padding: 20px 40px;
+    display: inline-block;
+    background-color: green;
+    border-bottom: 5px solid black;
+}
+
+.menu li{
+    float: left;
+}
